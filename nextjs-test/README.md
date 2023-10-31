@@ -1,1 +1,18 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Installation
+
+```bash
+$ npm install
+```
+## Building the app
+
+```bash
+$ npm run build
+```
+
+## Running the app
+
+```bash
+$ npm run start
+```
+
+
